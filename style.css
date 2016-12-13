@@ -1,0 +1,24 @@
+/* hello */
+
+body {
+	background-color: scarlet;
+	color: white;
+}
+
+h1 {
+	font-family: Arial;
+	text-decoration: underline;
+}
+
+img {
+	width: 10%;
+	height: 15%;
+}
+
+a {
+	text-decoration: none;
+}
+
+ul li {
+	list-style-type: none;
+}
